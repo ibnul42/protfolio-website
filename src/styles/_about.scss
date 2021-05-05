@@ -68,3 +68,38 @@
     row-gap: 3rem;
     margin: 4rem 0;
 }
+
+.btn-protfolio{
+    padding: .6rem 2rem;
+    background-color: #0381ff5b;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font-size: inherit;
+    font-family: inherit;
+    color: white;
+    margin-bottom: 1rem;
+    transition: all .3s ease-in-out;
+    &:not(:last-child){
+        margin-right: 1rem;
+    }
+    &:hover{
+        background-color: #037FFF;
+    }
+    &:active{
+        background-color: #037FFF;
+    }
+    &:focus{
+        background-color: #037FFF;
+    }
+    
+
+}
+
+.catergory-buttons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 2rem 1rem;
+    flex-wrap: wrap;
+}
