@@ -79,7 +79,7 @@ const blogs = [
     },
     {
         id: 9,
-        image: blog9,
+        image: blog2,
         title: 'Test Blogs data9',
         link: 'https://www.twitter.com/',
         date : '13',
