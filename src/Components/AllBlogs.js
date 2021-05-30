@@ -76,6 +76,15 @@ const blogs = [
         date : '09',
         month: 'Sep',
         year: '2019'
+    },
+    {
+        id: 9,
+        image: blog9,
+        title: 'Test Blogs data9',
+        link: 'https://www.twitter.com/',
+        date : '13',
+        month: 'Sep',
+        year: '2019'
     }
 ];
 
